@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at &nbsp;&nbsp; <a href="https://github.com/arpanghosh2416" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" width="40"/></a><br>
 
-- 💬 Ask me about JAVA, Python and React<br>
+- 💬 Ask me about JAVA, Python, Angular and Oracle-SQL<br>
 <hr>
 </p>
 <br><br>

@@ -127,6 +127,9 @@
 <p align="center" >   
     <img src="https://profile-counter.glitch.me/arpanghosh2416/count.svg" />  
   </p>
+ <br><br>
+ <p align="centre">
+ <img src="https://activity-graph.herokuapp.com/graph?username=arpanghosh2416&theme=react-dark" /></p> 
 <br><br><br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>

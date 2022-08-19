@@ -15,7 +15,7 @@
 <a href="mailto:arpanghoshiembca2023@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40"/></a><br>
 <a href="https://github.com/arpanghosh2416" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" width="40"/></a></p>  
 <br><br><hr>     
-<h1 align="center">A little bit About Me</h1>
+<h1 align="center">A little bit About Me</h1><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanghosh2416&label=Profile%20views&color=0e75b6&style=flat" alt="arpanghosh2416" /> </p><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanghosh2416" alt="arpanghosh2416" /></a> <br><br>
@@ -30,7 +30,7 @@
 <br><br>
 <h1 align="left"> 🛠️ Technical Skillset as well as still learning :-</h1>
 <br>
-
+<hr>
 <h3 align="center">👨‍💻 Programming Languages:</h3><hr>
 <p align="center">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>

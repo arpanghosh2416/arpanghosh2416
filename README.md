@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/dipayanjishu/dipayanjishu/blob/main/Color%20Matte.gif)
 <h1 align="center">Hi 👋, I'm Arpan Ghosh</h1>
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 <h2 align="center">Welcome to my Profile

@@ -31,6 +31,7 @@
 <h2 align="center">HactoberFest-2022 Open Source Contributors Badges</h2>
 [![@arpanghosh2416's Holopin board](https://holopin.me/arpanghosh2416)](https://holopin.io/@arpanghosh2416)
 </p>
+<hr>
 </p>
 <br><br>
 <h1 align="left"> 🛠️ Technical Skillset as well as still learning :-</h1>

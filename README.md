@@ -29,7 +29,7 @@
 <hr>
 <p>
 <h2 align="center">HactoberFest-2022 Open Source Contributors Badges</h2>
-[![@arpanghosh2416's Holopin board](https://holopin.io/api/user/board?user=arpanghosh2416)](https://www.holopin.io/@arpanghosh2416)
+[![@arpanghosh2416's Holopin board](https://holopin.io/api/user/board?user=arpanghosh2416)]
 </p>
 </p>
 <br><br>

@@ -30,7 +30,12 @@
 <p>
 <h2 align="center">HactoberFest-2022 Open Source Contributors Badges</h2>
 <a href="https://holopin.io/@arpanghosh2416">
-    <img src="https://holopin.me/arpanghosh2416" alt="@arpanghosh2416's Holopin board" height=500 width=1450/>
+    <img
+      src="https://holopin.me/arpanghosh2416"
+      alt="@arpanghosh2416's Holopin board"
+      class="rounded-xl cursor-pointer grayscale-50 hover:grayscale-0 transform-gpu duration-200"
+      height = 500 width=1450
+    />
   </a>
 </p>
 <hr>

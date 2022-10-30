@@ -34,7 +34,7 @@
       src="https://holopin.me/arpanghosh2416"
       alt="@arpanghosh2416's Holopin board"
       class="rounded-xl cursor-pointer grayscale-50 hover:grayscale-0 transform-gpu duration-200"
-      height = 500 width=1450
+      height = 385 width=1450
     />
   </a>
 </p>

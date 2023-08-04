@@ -19,14 +19,16 @@
 <h1 align="center">A little bit About Me</h1><hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanghosh2416&label=Profile%20views&color=0e75b6&style=flat" alt="arpanghosh2416" /> </p><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanghosh2416" alt="arpanghosh2416" /></a> <br><br>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpanghosh2416" alt="arpanghosh2416" /></a> <br>
+    <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
+    <p align="left">
+        
 - 🌱 I’m currently learning  on Spring Boot and Angular. <br>
-
 - 👨‍💻 All of my projects are available at &nbsp;&nbsp; <a href="https://github.com/arpanghosh2416" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" width="40"/></a><br>
-
-- 💬 Ask me about JAVA, Python, Angular and Oracle-SQL<br>
+- 💬 Ask me about JAVA, Python, Angular and Oracle-SQL</p>
+<br><br><br>
 <hr>
+<br><br>
 <p>
 <h2 align="center">HactoberFest-2022 Open Source Contributors Badges</h2>
 <a href="https://holopin.io/@arpanghosh2416">
